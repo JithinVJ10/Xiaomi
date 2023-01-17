@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-link li{
+    padding-left: 50px;
+}
+.nav-icons i{
+    padding-left: 15px;
+    font-size: 24px;
+}
+.nav-icons a{
+    color: black;
+}
+
+.image-banner{
+    margin-bottom: 10px;
+}
+
+.image-RedmiNote12{
+    margin-bottom: 10px;
+}
+.mobiles-imgDiv h5,p{
+    color: black;
+
+}
+.third-img-layer{
+    margin-bottom: 10px;
+}
+
+
+.tv-img h5,p{
+    color: white;
+}
+
+.tv-img a{
+    text-decoration: none;
+    color: white;
+}
+
+.mobiles-imgDiv a{
+    text-decoration: none;
+
+}
+
+.power-bank p{
+    color: black;
+}
+
+.smartphone p{
+    color:black;
+    
+}
+
+.lap-img img{
+    height: 542px;
+}
+
+.footer{
+    background-color: black;
+    padding: 40px;
+}
+
+.top-footer h4{
+    color: white;
+}
+.top-footer p{
+    
+    color: #acacac;
+}
+
+.award-phone a{
+    text-decoration: none;
+    color: white;
+}
+
+.award-laptop a{
+    text-decoration: none;
+    color: white;
+}
+
+.smartphone a{
+    text-decoration: none;
+    color:black;
+}
+
+.nav-item:hover a{
+    
+    border-bottom: 3px solid orangered;
+    
+}
